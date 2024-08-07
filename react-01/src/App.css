@@ -3,13 +3,10 @@ html {
 }
 
 body {
-  /* margin: 0; */
   font-family: "Roboto", sans-serif;
 }
 
 * {
-  /* margin: auto; */
-  /* padding: auto; */
   box-sizing: border-box;
   list-style-type: none;
 }

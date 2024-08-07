@@ -2,7 +2,7 @@ import './SectionOffers.css';
 
 export function SectionOffers(): React.ReactElement {
     return <section className="padd offers" id="offers">
-    <div className="container">
+        <div className="container">
       <h2 className="offer-heading-1">Czym zajmuje się nasza firma?</h2>
       <div className="offers-wrapper">
         <div className="offers-wrapper-box">

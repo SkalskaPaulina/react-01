@@ -2,7 +2,8 @@ import './SectionPage.css';
 
 export function SectionPage(): React.ReactElement {
     return <section className="landing-page">
-    <div className="landing-page-shadow">
+    <div className="container">
+        <div className="landing-page-shadow">
       <div className="container landing-page-shadow-container">
         <div className="landing-page-text">
           <h1 className="about-heading-1">
@@ -12,6 +13,7 @@ export function SectionPage(): React.ReactElement {
           <a className="landing-page-link" href="#offers">oferta</a>
         </div>
       </div>
+    </div>
     </div>
   </section>
 }

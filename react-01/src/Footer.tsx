@@ -2,6 +2,7 @@ import './Footer.css';
 
 export function Footer(): React.ReactElement {
     return <footer className="footer-main">
+            <div className="container">
     <div className="container container-flex footer-container">
       <span className="footer-credits"
         >Nazwa firmy - wszelkie prawa zastrzeżone, 2019</span>
@@ -15,6 +16,7 @@ export function Footer(): React.ReactElement {
             ><i className="fa-brands fa-square-facebook"></i></a>
         </li>
       </ul>
+    </div>
     </div>
     </footer>
 }

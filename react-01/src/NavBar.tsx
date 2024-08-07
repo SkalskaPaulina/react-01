@@ -2,6 +2,7 @@ import './NavBar.css';
 
 export function NavBar(): React.ReactElement {
     return <nav className="navbar">
+        <div className="container">
     <div className="container container-flex">
       <a className="nav-logo" href="#">moja firma</a>
       <ul className="nav-links">
@@ -9,6 +10,7 @@ export function NavBar(): React.ReactElement {
         <li><a href="#offers" className="nav-link">oferta</a></li>
         <li><a href="#" className="nav-link nav-link-contact">kontakt</a></li>
       </ul>
+    </div>
     </div>
   </nav>
 }
