@@ -1,4 +1,4 @@
-https://github.com/SkalskaPaulina/react-01/tree/main/react-01
+https://github.com/SkalskaPaulina/react-01
 
 Netifly:
 https://fc-react-01.netlify.app
