@@ -2,7 +2,7 @@
   width: 100%;
   height: 574px;
   height: calc(100vh - 100px);
-  background-image: url(./m_background.jpg);
+  background-image: url(../m_background.jpg);
   background-position: center;
   background-size: cover;
 }
