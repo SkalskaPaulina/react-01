@@ -8,7 +8,7 @@ export function NavBar(): React.ReactElement {
       <ul className="nav-links">
         <li><a href="#about" className="nav-link">o nas</a></li>
         <li><a href="#offers" className="nav-link">oferta</a></li>
-        <li><a href="#" className="nav-link nav-link-contact">kontakt</a></li>
+        <li href="#" className="nav-link nav-link-contact">kontakt</li>
       </ul>
     </div>
     </div>
